@@ -1,4 +1,4 @@
 EE6733
 ======
 
-class experiment
+This is for some experiments on NUS class EE6733 - vision and machine learning
